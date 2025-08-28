@@ -50,3 +50,8 @@
 
 > 更新不易，您的支持是我前进的动力～  
 > (⑅˃◡˂⑅)
+<div align="center">
+  <img src="mm_facetoface_collect_qrcode_1756416345248.png" alt="二维码1" width="300">
+  <br>
+  <img src="1756416358005.jpg" alt="二维码2" width="300">
+</div>
